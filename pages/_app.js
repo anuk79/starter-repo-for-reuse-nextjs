@@ -19,9 +19,9 @@ function MyApp({ Component, pageProps }) {
         <Component {...pageProps} />
       </main>
       <footer className={styles.footer}>
-      <p>
-        Footer text        
-      </p>
+      
+        Footer text here. Visit <a href="https://github.com/anuk79/starter-repo-for-reuse-nextjs">github repo</a> to see code.       
+      
     </footer>
     </div>
   );
