@@ -20,8 +20,7 @@ function MyApp({ Component, pageProps }) {
       </main>
       <footer className={styles.footer}>
       <p>
-        Created for reuse by &nbsp;<a href="https://twitter.com/miracle_404">Anuradha</a>
-        
+        Footer text        
       </p>
     </footer>
     </div>
