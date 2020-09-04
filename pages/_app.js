@@ -20,7 +20,7 @@ function MyApp({ Component, pageProps }) {
       </main>
       <footer className={styles.footer}>
       
-        Footer text here. Visit <a href="https://github.com/anuk79/starter-repo-for-reuse-nextjs">github repo</a> to see code.       
+        Footer text here. Visit &nbsp;<a href="https://github.com/anuk79/starter-repo-for-reuse-nextjs">github repo</a>&nbsp; to see code.       
       
     </footer>
     </div>
