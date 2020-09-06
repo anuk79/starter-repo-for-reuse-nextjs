@@ -1,5 +1,6 @@
 {
   "name": "starter-repo-for-reuse-nextjs",
+  "author": {"name": "Anuradha Kumari", "email": "2anuradha9@gmail.com"},
   "version": "0.1.0",
   "private": true,
   "scripts": {
