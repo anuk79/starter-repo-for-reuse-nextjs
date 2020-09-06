@@ -18,7 +18,11 @@ function MyApp({ Component, pageProps }) {
       <main className={styles.main}>
         <Component {...pageProps} />
       </main>
-      <footer className={styles.footer}>Created for educational purpose by &nbsp;<a href="https://twitter.com/miracle_404">Anuradha</a></footer>
+      <footer className={styles.footer}>
+      
+        Footer text here. Visit &nbsp;<a href="https://github.com/anuk79/starter-repo-for-reuse-nextjs">github repo</a>&nbsp; to see code.       
+      
+    </footer>
     </div>
   );
 }
